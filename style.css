@@ -1,0 +1,87 @@
+*{
+    padding: 0px;
+    margin: 0px
+}
+
+body{
+    margin: 30px;
+}
+
+.container{
+    background-color: aqua;
+    color: black;
+    padding: 30px;
+    line-height: 35px;
+}
+
+.button{
+    padding: 10px;
+    background-color: red;
+
+}
+
+.container1{
+    margin-top: 10px;
+}
+
+.container_button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: orangered;
+    font-weight: bolder;
+}   
+
+
+.main_container{
+    display: flex;
+    margin-top: 15px;
+}
+
+.Sub_container1{
+    padding: 15px;
+    background-color: mediumspringgreen;
+    border-radius: 10px;
+}
+
+.Sub_container1 h2{
+    color:white;
+    margin-bottom: 10px;
+}
+
+.Sub_container2{
+    padding: 15px;
+    background-color: orchid;
+    border-radius: 10px;
+}
+
+.Sub_container2 h2{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.end-part{
+    background-color: skyblue;
+    color: black;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.contact heading{
+    color: white;
+}
+
+.contact_form{
+    position: absolute;
+    left: 40%;
+    color: white;
+}
+
+.contact_form button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: orangered;
+    font-weight: bolder;
+    cursor: pointer;
+}
